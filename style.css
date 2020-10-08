@@ -50,7 +50,9 @@ nav{
     background-color: teal;
     z-index: -1;
 }
-
+#slider{
+    display: none;
+}
 
 @media screen and (max-width:768px){
     body{
