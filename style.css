@@ -1,8 +1,9 @@
+/*ANCHOR Global settigns */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-.container {
-  max-width: 144rem;
+html {
+  font-size: 62.5%;
 }
