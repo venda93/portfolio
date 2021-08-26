@@ -3,6 +3,12 @@
   margin: 0;
   box-sizing: border-box;
 }
+main{
+  height: 100vh;
+}
 .container {
   max-width: 144rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
