@@ -1,13 +1,6 @@
 .main-header {
+  height: 10vh;
   display: flex;
-  justify-content: space-around;
-  margin: auto;
-}
-.nav-menu {
-  width: 15%;
-}
-.nav-links {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
+  align-items: center;
+  justify-content: center;
 }
