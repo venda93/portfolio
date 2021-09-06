@@ -1,0 +1,12 @@
+//utilities
+@import 'font';
+@import 'variables';
+//pages
+@import 'home';
+//global
+html{
+    scroll-behavior: smooth;
+}
+section{
+    padding: 3rem 0;
+}
